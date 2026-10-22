@@ -127,9 +127,11 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 [Browse AI and automation apps on MacNative →](https://macnative.io/categories/ai-automation?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_ai-automation)
 
-<!-- No entries yet — see CONTRIBUTING.md for how to add one. Keep entries alphabetical and native (no Electron AI wrappers). -->
-
 <table>
+<tr>
+<td width="64"><img src="resources/icons/lumi.png" width="48" height="48" alt="Lumi icon"></td>
+<td><strong><a href="https://lumi.loomtable.com">Lumi</a></strong><br><sub>Ask from any app by voice or text; answers on screen from your own Claude Code. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
 </table>
 
 ## Analytics & Monitoring
